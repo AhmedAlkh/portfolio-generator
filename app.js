@@ -104,7 +104,7 @@ Add a New Project
                 if (githubLink) {
                     return true;
                 } else {
-                    console.log('Please enter your name!');
+                    console.log('Please enter the GitHub link to your project!');
                     return false;
                 }
             }
